@@ -35,12 +35,9 @@ export default function WorkExperience() {
               tech: [
                 'Java',
                 'Spring Boot',
-                'Flask',
-                'Python',
                 'PostgreSQL',
-                'AWS Cognito',
+                'Azure',
                 'JWT',
-                'Cron Jobs',
                 'Caching',
                 'REST APIs',
                 'Data Visualization',
