@@ -25,10 +25,10 @@ export default function WorkExperience() {
                 'Developed and optimized internal backend systems and dashboards to automate reporting, improve operational efficiency, and enhance staff productivity across the college.',
               details: [
                 'Architected an Automated Reporting System to generate internal reports for student performance, attendance, and faculty metrics.',
-                'Built secure RESTful APIs with Java Spring Boot and Flask to fetch, filter, and aggregate data from multiple internal databases.',
-                'Implemented scheduled report generation and email notifications using Cron jobs and Flask background tasks, reducing weekly report prep time from hours to seconds.',
-                'Designed role-based access controls using Spring Security, JWT, and AWS Cognito to ensure that internal data is only accessible to authorized staff.',
+                'Built secure RESTful APIs with Java Spring Boot to fetch, filter, and aggregate data from multiple internal databases.',
+                'Designed role-based access controls using Spring Security, JWT, and Azure to ensure that internal data is only accessible to authorized staff.',
                 'Optimized database queries with indexing, caching, and query restructuring, increasing system responsiveness by 40% and reducing server load.',
+                'Moved hosting from on premise to Azure, using Azures Load Balancer and CDN to improve access times by 25%.',
                 'Created interactive dashboards with real-time data visualizations for staff to monitor key metrics and trends efficiently.',
                 'Collaborated with IT and admin teams to identify bottlenecks in internal workflows and implement automated solutions, improving productivity and reducing manual errors.',
               ],
